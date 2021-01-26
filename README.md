@@ -55,16 +55,13 @@ TBD
 
 The source code for this library is available at:
 
-https://github.com/gannan08/rdf-canonize-rs
+https://github.com/digitalbazaar/rdf-canonize-rs
 
 ## Commercial Support
 
 Commercial support for this library is available upon request from
-
-TBD
+[Digital Bazaar][]: support@digitalbazaar.com
 
 [Digital Bazaar]: https://digitalbazaar.com/
 [JSON-LD]: https://json-ld.org/
 [RDF Dataset Normalization Algorithm]: https://json-ld.github.io/normalization/
-[jsonld.js]: https://github.com/digitalbazaar/jsonld.js
-[rdf-canonize-native]: https://github.com/digitalbazaar/rdf-canonize-native

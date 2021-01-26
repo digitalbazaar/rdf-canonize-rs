@@ -1,7 +1,7 @@
 [package]
 name = "rdf-canonize-rs"
 version = "0.1.0"
-authors = ["Ganesh Annan <gannan@digitalbazaar.com>"]
+authors = ["Ganesh Annan <gannan@digitalbazaar.com>", "Matt Collier <mcollier@digitalbazaar.com>"]
 edition = "2018"
 
 [lib]
